@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{73ADE929-B9CD-476E-922C-E40BEDB23200}</ProjectGuid>
-    <RootNamespace>Practicing510</RootNamespace>
+    <ProjectGuid>{01EAD0F8-07DB-40C7-8700-F961F4750CAF}</ProjectGuid>
+    <RootNamespace>Practicing524</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -65,7 +65,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="practice.c" />
+    <ClCompile Include="牛客.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
